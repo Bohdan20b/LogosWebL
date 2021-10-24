@@ -1,0 +1,44 @@
+body{
+    background-color: skyblue;
+}
+#wrapper{
+    margin:0 auto;
+    background-color:yellow;
+    padding:15 px;
+}
+#wrapper ul{
+    text-align: justify;
+    height: 40px;
+    margin: 0;
+    padding: 0px;
+    outline: 1px solid black;
+    overflow: hidden;
+}
+#wrapper ul::after{
+    content: "";
+    width: 100%;
+    display: inline-block;
+}
+#wrapper ul li{
+    overflow: hidden;
+    width:120 px;
+    height: 40px;
+    padding:10px 8%;    
+    outline: 1px solid black;
+    display: inline-block;
+}
+.h3{
+    color:blue; font: 18px arial; font-weight: 700;
+}
+#img1{
+    padding: 10px 0px 10px 10px;
+    width: 400px;
+}
+h1{
+    text-align: center;
+}
+.left{
+    padding: 10px 880px 10px 10px;
+    float:right;   
+    font-style: italic;
+}
