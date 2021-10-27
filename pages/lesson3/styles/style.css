@@ -1,0 +1,32 @@
+html{
+    background: url("/Users/bb/Documents/LogosWebL/pages/lesson3/images/bg.jpg");
+    background-size: cover;
+    height: auto;
+    overflow: hidden;
+}
+.title1{
+    font-family:'Arial';
+    text-align: center;
+    letter-spacing: 8px;
+}
+#ol1{
+    text-transform: uppercase;
+}
+#ul1 {
+    list-style: circle;
+}
+.span1{
+    font-size: 23px;
+    font-weight: bold;
+}
+.span2{
+    letter-spacing: 3px;
+    text-decoration: underline;
+
+}
+.span3{
+    text-decoration: line-through;
+}
+.span4{
+    text-decoration: underline;
+}
