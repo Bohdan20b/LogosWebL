@@ -1,0 +1,59 @@
+.main{
+    background-color: rgb(231, 241, 191);
+    border: double;
+    border-width: 3px;
+    border-color: black;
+    margin: 200px 100px 200px 100px;
+}
+.a{
+    height: 100px;
+    margin: 35px 0px 35px 20px;
+}
+
+ul#li1 li{
+    display: inline;
+    text-transform: uppercase;
+    padding: 70px 66px 30px 35px;
+}
+.fa-check-circle{
+    color: green;
+}
+.fa-check-circle:hover{
+    color: red;
+}
+.b{
+    height: 100px;
+    margin: 35px 0px 35px 20px;
+}
+ul#li2 li{
+    display: inline;
+    text-transform: uppercase;
+    padding: 70px 70px 10px 35px;
+}
+.fa-caret-right{
+color:black;
+}
+.fa-caret-left{
+color:black;
+}
+.fa-caret-left:hover{
+    color:orange;
+}
+.fa-caret-right:hover{
+    color: orange;
+}
+.c{
+    height: 80px;
+    margin: 0px 0px 0px 20px;
+}
+ul#li3 li{
+    display: inline;
+    text-transform: uppercase;
+    padding: 70px 68px 0px 30px;
+}
+.fa-star{
+    color:blue;
+}
+.fa-star:hover{
+    color:black;
+}
